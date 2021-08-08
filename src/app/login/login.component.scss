@@ -1,0 +1,13 @@
+@import "../../assets/styles/bootstrap.css";
+.register-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 16px;
+}
+
+.register-button{
+    color: blue;
+    font-weight: bold;
+    cursor: pointer;
+}
